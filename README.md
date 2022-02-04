@@ -19,8 +19,12 @@ A machine learning student and enthusiast that shares projects I previously or c
 
 ### Github Statistics
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fachrizfx&show_icons=true&hide_border=true&theme=github_dark" />
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizfx&show_icons=true&layout=compact&hide_border=true&theme=github_dark" />
+<p align="left">
+  <a href="https://github.com/dimasmds">
+    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fachrizfx&show_icons=true&hide_border=true&theme=github_dark" />
+    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizfx&show_icons=true&layout=compact&hide_border=true&theme=github_dark" />
+  </a>
+</p>
 
 <br />
 
