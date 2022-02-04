@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi! 👋 I'm Fachriz
 
-<!--
-**fachrizfx/fachrizfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning student who loves to share the projects I'm working on and learn about new ML technologies and technologies in general!
 
-Here are some ideas to get you started:
+-   🔭 I'm currently working on multiple ML projects
+-   🌱 I'm currently focused on learning new Machine Learning technology
+-   ⚡ Fun Fact: Loves Mathematics and Physics!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/96/000000/javascript--v2.png" />][js]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vcs]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://img.icons8.com/fluency/96/000000/jupyter.png" />][jupyter]
+[<img align="left" alt="TensorFlow" width="26px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />][tensorflow]
+<img align="left" alt="Powershell" width="26px" src="https://img.icons8.com/color/96/000000/powershell.png" />
+
+<br />
+
+### Github Statistics
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fachrizfx&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizfx&show_icons=true&layout=compact&hide_border=true&theme=github_dark" />
+
+<br />
+
+[python]: https://python.org/
+[js]: https://www.javascript.com/
+[vcs]: https://en.wikipedia.org/wiki/Visual_Studio_Code
+[jupyter]: https://en.wikipedia.org/wiki/Project_Jupyter
+[tensorflow]: https://tensorflow.org
