@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Fachriz
 
-Machine Learning student who loves to share the projects I'm working on and learn about new ML technologies and technologies in general!
+A machine learning student and enthusiast that shares projects I previously or currently worked on. Loves to learn about mathematics and new things, especially new machine learning technologies or technologies in general!
 
 -   🔭 I'm currently working on multiple ML projects
 -   🌱 I'm currently focused on learning new Machine Learning technology
