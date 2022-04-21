@@ -3,7 +3,7 @@
 A machine learning student and enthusiast that shares projects I previously or currently worked on. Loves to learn about mathematics and new things, especially new machine learning technologies or technologies in general!
 
 -   🔭 Currently working on multiple ML projects
--   🌱 Currently focused on learning new ML technology and mathematics
+-   🌱 Currently focused on learning new ML technologies and mathematics
 -   ⚡ Fun Fact: Loves Mathematics and Physics!
 
 ### Development Tools:
