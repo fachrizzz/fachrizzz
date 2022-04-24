@@ -22,8 +22,6 @@ A machine learning student and enthusiast that shares projects I previously or c
 [<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />][jquery]
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg" />
 
-<br />
-
 ### Github Statistics
 
 <p align="left">
