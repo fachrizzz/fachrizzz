@@ -20,9 +20,7 @@ A machine learning student and enthusiast that shares projects I previously or c
 [<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />][pandas]
 [<img align="left" alt="Kaggle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />][kaggle]
 [<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />][jquery]
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/terminal.svg" />
 
-<br />
 <br />
 <br />
 
