@@ -1,10 +1,10 @@
 ## Hi! 👋 I'm Fachriz
+I'm a machine learning student and enthusiast. I enjoy learning new things, especially new machine learning technologies. Currently, I'm learning about mathematical concepts in machine learning.
 
-A machine learning student and enthusiast that shares projects I previously or currently worked on. Loves to learn about mathematics and new things, especially new machine learning technologies or technologies in general!
+-   🔭 Working on ML projects
+-   🌱 Focused on learning new ML technologies and mathematical concepts in ML
+-   ⚡ ML, Mathematics, and Physics
 
--   🔭 Currently working on multiple ML projects
--   🌱 Focused on learning new ML technologies and mathematics
--   ⚡ Mathematics and Physics!
 
 ### Development Tools:
 
