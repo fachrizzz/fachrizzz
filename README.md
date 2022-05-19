@@ -1,4 +1,8 @@
 ### Hi there 👋, my name is Fachriz
+> “The future depends on some graduate student who is deeply suspicious of everything I have said.” — Geoffrey Hinton
+
+> “Anything that could give rise to smarter-than-human intelligence — in the form of Artificial Intelligence, brain-computer interfaces, or neuroscience-based human intelligence enhancement — wins hands down beyond contest as doing the most to change the world. Nothing else is even in the same league.” — Eliezer Yudkowsky
+
 Learner in Artificial Intelligence (AI), particularly in the Machine Learning (ML) field. Trying to share projects that have been previously developed through main and side projects. I enjoy learning new things such as mathematical concepts in ML and technologies that involving AI. 
 
 - 🔭 I’m currently working on ML projects 
