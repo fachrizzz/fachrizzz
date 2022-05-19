@@ -24,17 +24,6 @@ I'm a machine learning student and enthusiast. I enjoy learning new things, espe
 <br />
 <br />
 
-### Github Statistics
-
-<p align="left">
-  <a href="https://github.com/fachrizzz">
-    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fachrizzz&show_icons=true&hide_border=true&theme=github_dark" />
-    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachrizzz&show_icons=true&layout=compact&hide_border=true&theme=github_dark" />
-  </a>
-</p>
-
-<br />
-
 [python]: https://python.org/
 [js]: https://www.javascript.com/
 [vcs]: https://code.visualstudio.com/
