@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Fachriz
+### 👋
+
+<iframe src="https://giphy.com/embed/mADhBtHlwZ3ytRc654" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-45-mADhBtHlwZ3ytRc654">via GIPHY</a></p>
+
 > “The future depends on some graduate student who is deeply suspicious of everything I have said.” — Geoffrey Hinton
 
 > “Anything that could give rise to smarter-than-human intelligence — in the form of Artificial Intelligence, brain-computer interfaces, or neuroscience-based human intelligence enhancement — wins hands down beyond contest as doing the most to change the world. Nothing else is even in the same league.” — Eliezer Yudkowsky
 
-Learner in Artificial Intelligence (AI), particularly in the Machine Learning (ML) field. Trying to share some projects that have been previously developed through main and side projects. I enjoy learning new things such as mathematical concepts in ML and technologies that involve AI. 
-
-- 🔭 I’m currently working on ML projects 
-- 🌱 I’m currently learning Mathematical concepts in ML 
-- ⚡ Fun fact: Just AI and Mathematics
+An active learner in Artificial Intelligence, particularly in the Machine Learning field. Passionate about technology and mathematics, particularly maths in ML. A consistent runner, and a reader of self-help books and technical books.
 
 ### Tools:
 
