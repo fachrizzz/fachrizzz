@@ -1,6 +1,4 @@
-### 👋
-
-<iframe src="https://giphy.com/embed/mADhBtHlwZ3ytRc654" width="480" height="275" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-45-mADhBtHlwZ3ytRc654">via GIPHY</a></p>
+## 👋👋👋
 
 > “The future depends on some graduate student who is deeply suspicious of everything I have said.” — Geoffrey Hinton
 
@@ -18,4 +16,3 @@ An active learner in Artificial Intelligence, particularly in the Machine Learni
 [<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />](https://opencv.org/)
 [<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />](https://numpy.org/)
 [<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Kaggle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />](https://www.kaggle.com/)
